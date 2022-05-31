@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Network Information
+GenericName=Ip-Info
+Comment=Brief network information
+Exec=$HOME/.local/ipinfo/launch.sh
+Terminal=false
+Icon=network
+Type=Application
+Categories=Network;
